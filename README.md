@@ -1,7 +1,4 @@
-# Course_FDU_Gen
-
-```markdown
-# Canvas Agent - Image Generation from Bounding Box Sequences
+# Course_FDU_Gen - Canvas Agent
 
 A sophisticated image generation system that creates images based on object-bounding box sequences, featuring an iterative judge-and-rebuild mechanism for quality assurance.
 
